@@ -4,7 +4,6 @@ A figma project outlining an application that provides covid information, reccom
 - [Figma project](https://www.figma.com/file/STev0CNuhCSymN0KFcRoYa/Assignment2)
 - [Overview video](https://youtu.be/O0jDz5iwvxo)
 ## Screenshots:
-<img src="Seniors_List.png" align="left" height="48em" width="48" >
-![Seniors List](Seniors_List.png)
-![Requests](Requests.png)
-![Request_Form](Request_Form.png)
+<img src="Seniors_List.png" align="left" height="50%" width="50%" >
+<img src="Requests.png" align="left" height="50%" width="50%" >
+<img src="Request_Form.png" align="left" height="50%" width="50%" >
